@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs and try cool projects
 - 🥅 Goals: Get better and Healthier
-- ⚡ Fun fact: I love rai (cheb bilal) music when coding
 
 ### Connect with me:
 
@@ -37,24 +36,3 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-
-
-- [ARCH-DEVELOPMENT](https://github.com/rami-pro/arch-dev)
-- [ZAPHIR-REACT](https://github.com/rami-pro/zaphir-react)
-- [ZAPHIR-SERVER](https://github.com/rami-pro/zaphir-server)
-- [NETFLIX-DEMO](https://github.com/rami-pro/netflix-demo)
-- [Budgety-React](https://github.com/rami-pro/budgety-react)
-
-<!-- BLOG-POST-LIST:END -->
-
-[instagram]: https://www.instagram.com/rami_goual/
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
